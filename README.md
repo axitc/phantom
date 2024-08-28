@@ -19,6 +19,6 @@ $ ./phantom.sh
 3. Ctrl-C to terminate. Remember the image number to start again from that number. (Reconfigure from source. Common sense ;)
 
 Phantom in action:
-![Phantom](./demo.mp4)
+![Phantom](./demo.gif)
 
 PS: You can configure mouse positions for different search engines. Refer the source file.
